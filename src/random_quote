@@ -1,0 +1,812 @@
+#!/bin/sh
+
+sed '1,/^### DATA ###$/d' $0 | shuf -n 1 - > /etc/issue
+exit
+
+### DATA ###
+Successful people tend to become more successful because they are always thinking about their successes. - Brian Tracy
+There is no sadder sight than a young pessimist. - Mark Twain
+The clock indicates the moment...but what does eternity indicate? - Walt Whitman
+If you don't read the newspaper, you're uninformed. If you read the newspaper, you're misinformed. - Mark Twain
+Many people spend more time looking at their failures than focusing on their successes. - Lolly Daskal
+Truth is not something outside to be discovered, it is something inside to be realized. - Osho
+When we think about our strengths, we are strong. When we think about our weaknesses, we are weak. - Peter A. Cohen
+If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher. - Pema Chodron
+Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner. - Sonia Ricotti
+In the midst of chaos, there is also opportunity. - Sun Tzu
+There is a wisdom of the head, and there is a wisdom of the heart. - Charles Dickens
+Care about what other people think and you will always be their prisoner. - Lao Tzu
+Everybody's life is either rewarding or an example. - Tony Robbins
+Be thankful for everything that happens in your life; it's all an experience. - Roy T. Bennett
+Trusting our intuition often saves us from disaster.  - Anne Wilson Schaef
+You cannot change your destination overnight but you can change your direction overnight. - Jim Rohn
+By seeking and blundering we learn. - Johann Wolfgang von Goethe
+Conflict cannot survive without your participation.  - Wayne Dyer
+When you make a choice, you change the future. - Deepak Chopra
+The important thing is not what one is born with but what use one makes of that equipment. - Alfred Adler
+First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.   - Estee Lauder
+I must also have a dark side if I am to be whole. - Carl Jung
+Men are disturbed not by things, but by the view which they take of them. - Epictetus
+Fear is your worst enemy. Risk is your best friend. - Gurbaksh Chahal
+Still your waters. - Josh Waitzkin
+He is a wise man who does not grieve for the things which he has not, but rejoices for those which he has. - Epictetus
+Be as fluid as water, do not give your enemies anything solid to attack. - Robert Greene
+People seldom do what they believe in. They do what is convenient, then repent. - Bob Dylan
+If your happiness depends on what somebody else does, I guess you do have a problem. - Richard Bach
+When you consider things like the stars, our affairs don't seem to matter very much, do they? - Virginia Woolf
+Do not stop thinking of life as an adventure. - Eleanor Roosevelt
+Make each day a new horizon. - Christopher McCandless
+You are your best thing. - Toni Morrison
+Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. - Albus Dumbledore
+You cannot swim for new horizons until you have courage to lose sight of the shore. - William Faulkner
+It's not the size of the dog in the fight, it's the size of the fight in the dog. - Mark Twain
+Youth ages, immaturity is outgrown, ignorance can be educated, and drunkenness sobered, but stupid lasts forever. - Aristophanes
+Trying to define yourself is like trying to bite your own teeth. - Zen Proverb
+Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward. - Colin Powell
+Don't let someone elses. opinion become your reality. - Les Brown
+It's not how much money you make, it's how much money you keep. - Robert Kiyosaki
+When you view failure as feedback, you get more done. When you view failure as a finality, you get nothing done. - Jack Butcher
+I never dwell on what happened. You can't change it. Move forward. - Joan Rivers
+Ancient Rule of Twenty-one: if you do anything for twenty-one days in a row, it will be installed as a habit. - Robin Sharma
+Throughout this life, you can never be certain of living long enough to take another breath. - Huang Po
+Love is not about possession. Love is about appreciation. - Osho
+Don't look back - you're not going that way. - Mary Engelbreit
+I have no methods; all I do is accept people as they are. - Joan Rivers
+If I love myself I love you. If I love you I love myself. - Rumi
+Pleasure in the job puts perfection in the work. - Aristotle
+In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result. - James Allen
+There is no fear for one whose mind is not filled with desires. - Buddha
+Fools talk, cowards are silent, wise men listen. - Carlos Ruiz Zafon
+Mastery is not a function of genius or talent, it is a function of time and intense focus applied to a particular field of knowledge. - Robert Greene
+The most important things are the hardest to say. - Stephen King
+When you want something in life, you just gotta reach out and grab it. - Christopher McCandless
+Our view of the world is truly shaped by what we decide to hear. - William James
+Try not to become a man of success, but rather try to become a man of value. - Albert Einstein
+Change is hard at first, messy in the middle and gorgeous at the end. - Robin Sharma
+The first step toward getting somewhere is to decide that you are not going to stay where you are. - Unknown
+I want the fishing rod, not the fish. - Yanni
+The only limits in your life are those that you set yourself. - Celestine Chua
+Who you are is always right. - Ming-Dao Deng
+Judge your success by what you had to give up in order to get it. - Dalai Lama
+Be mindful. Be grateful. Be positive. Be true. Be kind. - Roy T. Bennett
+Learn only how to avoid seeking for and attaching yourselves to anything. - Huang Po
+Life is one long process of getting tired. - Samuel Butler
+The scariest monsters are the ones that lurk within our souls. - Edgar Allan Poe
+He who laughs at himself never runs out of things to laugh at. - Epictetus
+Respect is earned by effort not age, all things age without effort. - C. Sean McGee
+Winning isn't everything, but wanting to win is. - Vince Lombardi
+We forge the chains we wear in life. - Charles Dickens
+Your worth consists in what you are and not in what you have. - Thomas Edison
+Reversing your treatment of the man you have wronged is better than asking his forgiveness. - Elbert Hubbard
+All know the way; few actually walk it.  - Bodhidharma
+I cannot make my days longer so I strive to make them better. - Henry David Thoreau
+Don't let making a living prevent you from making a life. - John Wooden
+Turn the pain into power. - Unknown
+A man sooner or later discovers that he is the master-gardener of his soul, the director of his life. - James Allen
+No duty is more urgent than that of returning thanks. - James Allen
+Fear of death is fear of the Unknown. - Adi Da Samraj
+The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality. - Brian Tracy
+Dark times lie ahead of us and there will be a time when we must choose between what is easy and what is right. - Albus Dumbledore
+The less you open your heart to others, the more your heart suffers. - Deepak Chopra
+Success is not what you do when you are on top.  Success is how high you bounce when you hit the bottom. - Sonia Ricotti
+Laziness may appear attractive, but work gives satisfaction. - Anne Frank
+Have a vision. Be demanding. - Colin Powell
+To be truly ignorant, be content with your own knowledge. - Zhuangzi
+The more one judges, the less one loves. - Honore de Balzac
+Heaven is right where you are standing. - Morihei Ueshiba
+Seek not the good in external things;seek it in yourselves. - Epictetus
+The heart wants what it wants. There's no logic.  - Woody Allen
+In spite of everything, I shall rise again. - Vincent van Gogh
+Don't wish it were easier, wish you were better. - Jim Rohn
+There are no contests in the Art of Peace. A true warrior is invincible because he or she contests with nothing. - Morihei Ueshiba
+The temptation to give up is strongest just before victory. - Zen Proverb
+Supreme excellence consists of breaking the enemy's resistance without fighting. - Sun Tzu
+Before enlightenment; chop wood, carry water. After enlightenment; chop wood, carry water. - Buddha
+Extraordinary results happen only when you give the best you have to become the best you can be at your most important work. - Gary Keller
+Happiness is the meaning and the purpose of life, the whole aim and end of human existence. - Aristotle
+He who knows, does not speak. He who speaks, does not know. - Lao Tzu
+While some of us act without thinking, too many of us think without acting. - Dan Millman
+Friendship takes time and energy if it's going to work. - Betty White
+Be brave enough to suck at something new. - Unknown
+To accomplish big things, I am convinced you must first dream big dreams. - Conrad Hilton
+I dream my painting and I paint my dream. - Vincent van Gogh
+People who have goals succeed because they know where they're going. It's that simple. - Earl Nightingale
+The meaning of life is just to be alive. It is so plain and so obvious and so simple. - Alan Watts
+There can be no deep disappointment where there is not deep love. - Martin Luther King, Jr.
+Learn to value yourself, which means: fight for your happiness. - Ayn Rand
+Good things aren't supposed to just fall into your lap. - Audrey Hepburn
+Be not afraid of growing slowly, be afraid only of standing still.  - Chinese Proverb
+The best way out is always through. - Robert Frost
+Don't measure yourself by what you have accomplished, but by what you should have accomplished with your ability. - John Wooden
+Think and wonder, wonder and think. - Dr. Seuss
+The art of being wise is knowing what to overlook. - William James
+Reality is the leading cause of stress among those in touch with it. - Lily Tomlin
+Everyday is a second chance. - Unknown
+Becoming a great leader doesn't mean being perfect. it means living with your imperfections. - Lolly Daskal
+Progress is impossible without change, and those who cannot change their minds cannot change anything. - George Bernard Shaw
+Do not believe that you will reach your destination without leaving the shore.  - Chinese Proverb
+The more something scares you, the more you should do it. - Mark Manson
+When it comes to mastering a skill, time is the magic ingredient. - Robert Greene
+Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.   - Jack Kerouac
+The only person you should try to be better than is the person you were yesterday. - Brian Tracy
+Trust in dreams, for in them is the hidden gate to eternity.   - Kahlil Gibran
+Our stories may be singular, but our destination is shared. - Barack Obama
+All life is an experiment. The more experiments you make, the better. - Ralph Waldo Emerson
+The way of success is the way of continuous pursuit of knowledge. - Napoleon Hill
+Why fit in when you were born to stand out? - Dr. Seuss
+No man will make a great leader who wants to do it all himself or to get all the credit for doing it. - Andrew Carnegie
+Never let the things you can't do stop you from doing what you can. - Ronald Reagan
+Ripe fruit falls by itself - but it doesn't fall in your mouth.  - Chinese Proverb
+Love doesn't need reason. It speaks from the irrational wisdom of the heart. - Deepak Chopra
+Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love. - Morihei Ueshiba
+When uncomfortable, my instinct is not to avoid the discomfort but to become at peace with it. - Josh Waitzkin
+The only thing worse than being blind is having sight but no vision. - Helen Keller
+Living a life that has a greater purpose and living up to it is the ultimate degree that we should strive for. - Gurbaksh Chahal
+Go as far as you can see and you will see further.   - Zig Ziglar
+Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task. - William James
+There can be no greater gift than that of giving one's time and energy to help others without expecting anything in return. - Nelson Mandela
+The friendship that can cease has never been real.  - St. Jerome
+We know nothing of tomorrow, our business is to be good and happy today. - Sydney Smith
+Every drop in the ocean counts.  - Yoko Ono
+Exceptional thinkers ignore their critics and go about their business making history. - John Eliot
+However difficult life may seem, there is always something you can do and succeed at. - Stephen Hawking
+It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future. - Nicolas Chamfort
+Loving thoughts and actions are clearly beneficial for our physical and mental health. - Dalai Lama
+Better a diamond with a flaw than a pebble without one. - Chinese Proverb
+To bear trials with a calm mind robs misfortune of its strength and burden. - Seneca
+All cruelty springs from weakness.   - Seneca
+Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives. - Betty White
+Enjoy every minute of life. Never second-guess life. - Michael Jordan
+If you don't like something, change it. If you can't change it, change your attitude. - Maya Angelou
+What do we live for if not to make life less difficult for each other? - T.S. Eliot
+Hold yourself responsible for a higher standard than anybody else expects of you. - Henry Ward Beecher
+We may not be able to stop evil in the world, but how we treat one another is entirely up to us. - Barack Obama
+Success is good at any age, but the sooner you find it, the longer you will enjoy it. - Napoleon Hill
+The wiser you get, the less you care to look like a fool. - Maxime Lagace
+Dreams are the touchstones of our characters. - Henry David Thoreau
+The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach. - Benjamin Mays
+What's right is what's left if you do everything else wrong. - Robin Williams
+There is no way to happiness - happiness is the way. - Thich Nhat Hanh
+Some people want it to happen, some wish it would happen, others make it happen. - Michael Jordan
+Where words fail, music speaks. - Hans Christian Andersen
+The very essence of instinct is that it's followed independently of reason. - Charles Darwin
+You are what you believe yourself to be. - Paulo Coelho
+Don't ever save anything for a special occasion. Being alive is the special occasion. - Mary Engelbreit
+Money is only a tool. It will take you wherever you wish, but it will not replace you as the driver. - Ayn Rand
+Keep others in suspense, cultivate an air of unpredictability. - Robert Greene
+The enemy is a very good teacher. - Dalai Lama
+To get angry is like to revenge yourself for the guilt of others. - Jonathan Swift
+If you can't argue both sides, you can't argue. - Jack Butcher
+Life is the art of drawing sufficient conclusions from insufficient premises. - Samuel Butler
+Fortunate are those who take the first steps. - Paulo Coelho
+A loving heart is the truest wisdom. - Charles Dickens
+Character is the result of two things: mental attitude and the way we spend our time. - Elbert Hubbard
+The harder you work, the harder it is to surrender. - Vince Lombardi
+Enthusiasm is a vital element toward the individual success of every man or woman. - Conrad Hilton
+Forget yesterday - it has already forgotten you. Don't sweat tomorrow - you haven't even met. Instead, open your eyes and your heart to a truly precious gift - today. - Steve Maraboli
+Teachers open the door. You enter by yourself.  - Chinese Proverb
+We must be free not because we claim freedom, but because we practice it. - William Faulkner
+Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. - Martin Luther King, Jr.
+Trust is built and maintained by many small actions over time. - Lolly Daskal
+All our knowledge has its origins in our perceptions. - Leonardo da Vinci
+Ideas do not reach perfection in a day, no matter how much study is put upon them. - Alexander Graham Bell
+Any idea, plan, or purpose may be placed in the mind through repetition of thought. - Napoleon Hill
+Confidence is what you have before you understand the problem. - Woody Allen
+There is a cosmic law which says that every satisfaction must be paid for with a dissatisfaction. - G.I. Gurdjieff
+The source of a true smile is an awakened mind. - Thich Nhat Hanh
+Nothing can bring you peace but yourself. - Dale Carnegie
+It is only depth of character that determines the profundity with which we face life. - Ming-Dao Deng
+Dreams are the royal road to the unconscious.  - Sigmund Freud
+Do something to move yourself toward your major goal every day. - Brian Tracy
+Be willing to be a beginner every single morning. - Meister Eckhart
+Go and do the things you can't. That is how you get to do them. - Pablo Picasso
+Don't wait for extraordinary opportunities. Seize common occasions and make them great. - Orison Swett Marden
+Every second you have on this planet is very precious and it's your responsibility that you're happy. - Naval Ravikant
+There is no path to Peace. Peace is the path. - Dan Millman
+Passion is energy. Feel the power that comes from focusing on what excites you.  - Oprah Winfrey
+I will love the light for it shows me the way, yet I will endure the darkness because it shows me the stars. - Og Mandino
+We all give up great expectations along the way. - Carlos Ruiz Zafon
+The person who is his own master cannot tolerate another boss.  - Chinese Proverb
+Life is a question and how we live it is our answer. - Gary Keller
+No great mind has ever existed without a touch of madness. - Aristotle
+If you try to get rid of fear and anger without knowing their meaning, they will grow stronger and return. - Deepak Chopra
+What one does is what counts. Not what one had the intention of doing. - Pablo Picasso
+You cannot find peace avoiding life. - Virginia Woolf
+Never waste a minute of your precious life thinking about people you don't like. - Celestine Chua
+The traveler sees what he sees. The tourist sees what he has come to see. - Gilbert Chesterton
+Darkness must pass. A new day will come. And when the sun shines, it will shine out the clearer. - J.R.R. Tolkien
+Amateurs sit and wait for inspiration, the rest of us just get up and got to work. - Stephen King
+I admire those who do good and expect nothing in return. - Roy T. Bennett
+Excellence is not an exception, it is a prevailing attitude. - Colin Powell
+Anything becomes interesting if you look at it long enough.. - Gustave Flaubert
+Stop wasting time defending your problems and work on addressing them instead. - Celestine Chua
+May you find grace as you surrender to life. May you find happiness, as you stop seeking it. - Dan Millman
+Strategy is a commodity, execution is an art. - Peter Drucker
+The world would go on even without you. Don't take yourself so seriously. - Norman Vincent Peale
+Resilience is not what happens to you. It's how you react to, respond to, and recover from what happens to you. - Jeffrey Gitomer
+You are what you do, not what you say you'll do. - Carl Jung
+Confidence breeds beauty.   - Estee Lauder
+Before you embark on a journey of revenge, dig two graves.  - Confucius
+A woman unsatisfied must have luxuries. But a woman who loves a man would sleep on a board. - D. H. Lawrence
+If you want to be happy, set a goal that commands your thoughts, liberates your energy, and inspires your hopes. - Andrew Carnegie
+It is ignorance that causes most mistakes. - Harry S. Truman
+We lie the loudest when we lie to ourselves. - Eric Hoffer
+All power is from within and therefore under our control. - Robert Collier
+Abundance of knowledge does not teach men to be wise. - Heraclitus
+Very little is needed to make a happy life; it is all within yourself, in your way of thinking. - Marcus Aurelius
+A dead thing can go with the stream, but only a living thing can go against it. - Gilbert Chesterton
+Fear, uncertainty, and discomfort are your compasses toward growth. - Celestine Chua
+There will always be suffering. But we must not suffer over the suffering. - Alan Watts
+Life is a balance of holding on and letting go. - Rumi
+Nothing important is learned; it is simply remembered. - Carlos Ruiz Zafon
+My powers are ordinary. Only my application brings me success. - Isaac Newton
+it's important to make sure that we're talking with each other in a way that heals, not in a way that wounds. - Barack Obama
+Begin now to be what you will be hereafter. - St. Jerome
+Receive without pride, let go without attachment. - Marcus Aurelius
+Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort. - Steve Harvey
+The ego wants to go fast. The soul needs to go slow. - Maxime Lagace
+Life is about not knowing and then doing something anyway. - Mark Manson
+Darkness is the absence of light. - Kamal Ravikant
+If you want something you've never had you must be willing to do something you've never done. - Thomas Jefferson
+You are today where your thoughts have brought you. - James Allen
+The biggest adventure is what lies ahead. - J.R.R. Tolkien
+Before preparing to improve the world, first look around your own home three times.  - Chinese Proverb
+From error to error one discovers the entire truth. - Sigmund Freud
+Love is the expression of one's values. - Ayn Rand
+Every poem should remind the reader that they are going to die. - Edgar Allan Poe
+If you have only one smile in you give it to the people you love. - Maya Angelou
+Catch, then, O catch the transient hour; Improve each moment as it flies!  - St. Jerome
+Everything is possible. The impossible just takes longer. - Dan Brown
+Success on the outside means nothing unless you also have success within. - Robin Sharma
+Happiness is the absence of the striving for happiness. - Zhuangzi
+Everything will be ok in the end. If it's not ok, it's not the end. - John Lennon
+To judge a man by his weakest link or deed is like judging the power of the ocean by one wave. - Elvis Presley
+I was angered, for I had no shoes. Then I met a man who had no feet.  - Chinese Proverb
+Be kind whenever possible. It is always possible. - Dalai Lama
+Don't let them drag you down by rumors. Just go with what you believe in. - Michael Jordan
+Great deeds are usually wrought at great risks. - Herodotus
+Sometimes a change of perspective is all it takes to see the light. - Dan Brown
+Whether you have a problem in your life or not depends upon your own attitude, your own understanding. - Shunryu Suzuki
+When you have a dream, you've got to grab it and never let go. - Carol Burnett
+It's wise to tell the truth. It's even wiser to tell it kindly. - Maxime Lagace
+All great truths begin as blasphemies. - George Bernard Shaw
+Either you choose to stay in the shallow end of the pool or you go out into the ocean. - Christopher Reeve
+Where your talents and the needs of the world cross, there lies your vocation. - Aristotle
+Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.  - Lao Tzu
+Whenever you find yourself on the side of the majority, it is time to reform. - Mark Twain
+A tiny change today brings a dramatically different tomorrow. - Richard Bach
+Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time. - Thomas Jefferson
+If you want peace, accept. If you want suffering, expect. - Maxime Lagace
+It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance. - Kamal Ravikant
+It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have. - Gary Keller
+It is better to offer no excuse than a bad one.  - George Washington
+Many have died; you also will die. The drum of death is being beaten. The world has fallen in love with a dream. Only sayings of the wise will remain. - Kabir
+Smell the cheese often so you know when it is getting old. - Spencer Johnson
+The big secret in life is that there is no big secret. Whatever your goal, you can get there if you're willing to work. - Oprah Winfrey
+Would you rather live your life according to the approval of others or aligned with your truth and your dreams? - Robin Sharma
+Embody what you teach, and teach only what you have embodied. - Dan Millman
+Get busy living, or get busy dying. - Stephen King
+Before anything else, preparation is the key to success. - Alexander Graham Bell
+The eyes of others our prisons; their thoughts our cages. - Virginia Woolf
+Your work is to discover your work and then, with all your heart, to give yourself to it. - Buddha
+The power of man has grown in every sphere, except over himself. - Winston Churchill
+If you set your goals ridiculously high and its a failure, you will fail above everyone elses success. - James Cameron
+When you are content to be simply yourself and don't compare or compete, everybody will respect you.  - Lao Tzu
+Our attitude toward life determines life's attitude towards us. - Earl Nightingale
+As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others. - Audrey Hepburn
+Every day is an opportunity to a make a new happy ending. - Jonathan Swift
+Patience is bitter, but its fruit is sweet. - Aristotle
+Whatever you do in life, surround yourself with smart people who'll argue with you. - John Wooden
+The real measure of your wealth is how much you'd be worth if you lost all your money. - Unknown
+I defeat my enemies when I make them my friends. - Dalai Lama
+If I cannot do great things. I can do small things in a great way. - Martin Luther King, Jr.
+There is no value in anything until it is finished.  - Genghis Khan
+Never feel shame for trying and failing, for he who has never failed is he who has never tried. - Og Mandino
+Whatever we plant in our subconscious mind and nourish with repetition and emotion will one day become reality. - Earl Nightingale
+Nothing will work unless you do. - Maya Angelou
+When you're the only sane person, you look like the only insane person. - Criss Jami
+Doubt is an uncomfortable condition, but certainty is a ridiculous one. - Voltaire
+If you don't make things happen then things will happen to you. - Robert Collier
+He who knows best knows how little he knows. - Thomas Jefferson
+Don't look for meaning in the words. Listen to the silences. - Samuel Beckett
+Don't blame others. it won't make you a better person. - Lolly Daskal
+If you're not making mistakes, then you're not doing anything. - John Wooden
+It's not about what it is, it's about what it can become. - Dr. Seuss
+Evil is whatever distracts.  - Franz Kafka
+A day without laughter is a day wasted. - Charlie Chaplin
+To be great is to be misunderstood. - Ralph Waldo Emerson
+The biggest and only critic lives in your perception of people's perception of you rather than people's perception of you. - Criss Jami
+Never fear quarrels, but seek hazardous adventures. - Alexandre Dumas
+The only problem we really have is we think we're not supposed to have problems! Problems call us to higher level- - face & solve them now! - Tony Robbins
+Vision is the art of seeing things invisible. - Jonathan Swift
+Life is essentially an endless series of problems. The solution to one problem is merely the creation of another. - Mark Manson
+Don't seek, don't search, don't ask, don't knock, don't demand - relax. - Osho
+To avoid criticism, do nothing, say nothing, and be nothing. - Elbert Hubbard
+You use a glass mirror to see your face; you use works of art to see your soul. - George Bernard Shaw
+The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves. - Brian Tracy
+The wisest men follow their own direction. - Euripides
+When you reach the top of the mountain, keep climbing.  - Zen Proverb
+Life is ten percent what you experience and ninety percent how you respond to it. - Unknown
+You have to keep breaking your heart until it opens. - Rumi
+As a man thinketh in his heart, so shall he be. - James Allen
+If everyone is moving forward together, then success takes care of itself. - Henry Ford
+Human behavior flows from three main sources: desire, emotion, and knowledge. - Plato
+Walk with those seeking truth... RUN FROM THOSE WHO THINK THEY'VE FOUND IT. - Deepak Chopra
+When you've got nothing, you've got nothing to lose. - Bob Dylan
+The number one cause of failure is the fear of failure. - Steve Harvey
+Thinking is the hardest work there is. That is why so few people engage in it. - Robert Kiyosaki
+You have as much laughter as you have faith. - Martin Luther
+By changing nothing, nothing changes. - Celestine Chua
+You don't have to control your thoughts; you just have to stop letting them control you. - Dan Millman
+It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime. - Steve Maraboli
+If you want to be successful, find someone who has achieved the results you want and copy what they do and you'll achieve the same results. - Tony Robbins
+When a man is penalized for honesty he learns to lie. - Criss Jami
+Be truthful about your emotions, and use your mind and emotions in your favor, not against yourself. - Robert Kiyosaki
+People will forget what you said, people will forget what you did, but people will never forget how you made them feel. - Maya Angelou
+I was wise enough to never grow up while fooling most people into believing I had.  - Margaret Mead
+A wise person should have money in their head, but not in their heart. - Jonathan Swift
+Until you change how you get things done, you'll never know what works best. - Roy T. Bennett
+It is the power of the mind to be unconquerable. - Seneca
+Do not bite at the bait of pleasure, till you know there is no hook beneath it. - Thomas Jefferson
+To seek is to suffer. To seek nothing is bliss. - Bodhidharma
+It's beautiful to be alone. To be alone does not mean to be lonely. It means the mind is not influenced and contaminated by society. - Jiddu Krishnamurti
+Associate with people who are likely to improve you.   - Seneca
+There are no shortcuts to any place worth going. - Beverly Sills
+Don't change your mind just because people are offended; change your mind if you're wrong. - Criss Jami
+Great minds discuss ideas. Average minds discuss events. Small minds discuss people. - Eleanor Roosevelt
+Fashion fades, only style remains the same. - Coco Chanel
+Every man desires to live long, but no man wishes to be old. - Jonathan Swift
+The shoe that fits one person pinches another; there is no recipe for living that suits all cases. - Carl Jung
+To wish you were someone else is to waste the person you are. - Unknown
+Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying. - Ming-Dao Deng
+The law of harvest is to reap more than you sow. Sow an act, and you reap a habit. Sow a habit and you reap a character. Sow a character and you reap a destiny. - James Allen
+Inner peace is when you realize that, in the end, nothing matters. - Maxime Lagace
+The sun is new each day. - Heraclitus
+You can't get to a place that you don't believe exists. - Unknown
+Write to help yourself, publish to help others. - Jack Butcher
+Perpetual optimism is a force multiplier. - Colin Powell
+Only those who will risk going too far can possibly find out how far one can go. - T.S. Eliot
+Live as if you were to die tomorrow. Learn as if you were to live forever. - Mahatma Gandhi
+Adversity is the tempering of one's mettle. Without it, we cannot know any true meaning in our accomplishments. - Ming-Dao Deng
+Simplicity is a difficult thing to achieve.   - Charlie Chaplin
+Stop being tormented by everyone else's reaction to you. - Joyce Meyer
+Discipline yourself, and others won't need to. - John Wooden
+Troubles are often the tools by which God fashions us for better things. - Henry Ward Beecher
+Life may be full of pain but that's not an excuse to give up. - Arnold Schwarzenegger
+Trust is the foundation of great leadership. - Lolly Daskal
+If you don't like something change it. If you can't change it, change your attitude about it. Don't complain. - Maya Angelou
+The most tragic thing in the world is a man of genius who is not a man of honor. - George Bernard Shaw
+Walking with a friend in the dark is better than walking alone in the light. - Helen Keller
+Problems remain as problems because people are busy defending them rather than finding solutions. - Celestine Chua
+Reality is nothing but a collective hunch. - Lily Tomlin
+Falling down is not failure. Failure comes when you stay where you have fallen. - Socrates
+I wasn't brave, I just didn't have time to be scared. - Amelia Earhart
+Life is much like going to the gym. The most painful part is deciding to go. Once you get past that, it's easy. - Robert Kiyosaki
+Ponder and deliberate before you make a move. - Sun Tzu
+So long as we are being remembered, we remain alive. - Carlos Ruiz Zafon
+Where there's life, there's hope. - Stephen Hawking
+It is not enough to win a war; it is more important to organize the peace. - Aristotle
+Even when a friend does something you do not like, he continues to be your friend.  - Genghis Khan
+Opportunities multiply as they are seized. - Sun Tzu
+I can live without money, but I cannot live without love. - Judy Garland
+The world makes way for the man who knows where he is going. - Ralph Waldo Emerson
+Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness. - Eckhart Tolle
+Surround yourself with only people who are going to lift you higher.  - Oprah Winfrey
+Through discipline comes freedom. - Aristotle
+My definition of success is control. - Kenneth Branagh
+Live your life and forget your age. - Norman Vincent Peale
+When the mind is calm, how quickly, how smoothly, how beautifully you will perceive everything. - Paramahansa Yogananda
+It takes half your life before you discover life is a do-it-yourself project. - Napoleon Hill
+It is those who concentrate on but one thing at a time who advance in this world. - Gary Keller
+You get paid in direct proportion to the difficulty of problems you solve. - Elon Musk
+Judgments prevent us from seeing the good that lies beyond appearances.   - Wayne Dyer
+The less people know, the more stubbornly they know it. - Osho
+I put my heart and soul into my work, and I have lost my mind in the process. - Vincent van Gogh
+If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace. - Dogen
+One of the first signs of the beginning of understanding is the wish to die.  - Franz Kafka
+None of us can change our yesterdays but all of us can change our tomorrows. - Colin Powell
+In the end, it's not the years in your life that count. It's the life in your years. - Abraham Lincoln
+The world is a puzzle; no need to make sense out of it. - Socrates
+Intense love does not measure, it just gives. - Mother Teresa
+There's more to life than being a passenger. - Amelia Earhart
+The two most important days in your life are the day you are born and the day you find out why. - Mark Twain
+Those who realize their folly are not true fools. - Zhuangzi
+You have the ability, now apply yourself. - Benjamin Mays
+Don't learn to do, but learn in doing. - Samuel Butler
+If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present. - Roy T. Bennett
+Don't let your mind stop you. - Steve Harvey
+One loses many laughs by not laughing at oneself. - Mary Engelbreit
+One beam, no matter how big, cannot support an entire house on its own. - Chinese Proverb
+I don't walk away from things that I think are unfinished. - Arnold Schwarzenegger
+It is far easier to start something than it is to finish it. - Amelia Earhart
+A mountain never yields to the wind no matter how strong it is. - Zen Proverb
+Anger, ego, jealousy are the biggest diseases,Keep yourself aloof from these three diseases. - Sathya Sai Baba
+Deeds will not be less valiant because they are upraised. - J.R.R. Tolkien
+Take the attitude of a student. Never be too big to ask questions. Never know too much to learn something new. - Og Mandino
+First learn the meaning of what you say, and then speak. - Epictetus
+The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less. - Dan Millman
+We have to live life with a sense of urgency so not a minute is wasted. - Les Brown
+I am not what happened to me, I am what I choose to become. - Carl Jung
+Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution. - Kahlil Gibran
+The best teacher is experience and not through someone's distorted point of view. - Jack Kerouac
+Choose to be optimistic, it feels better. - Dalai Lama
+The only normal people are the ones you don't know very well. - Alfred Adler
+There is no path to Happiness. Happiness is the path. - Dan Millman
+If you want to achieve anything in this world, you have to get used to the idea that not everyone will like you. - Simon Sinek
+Not doing it is certainly the best way to not getting it.   - Wayne Gretzky
+No man becomes rich unless he enriches others. - Andrew Carnegie
+Creativity is intelligence having fun. - Albert Einstein
+I am who I am today because of the choices I made yesterday. - Eleanor Roosevelt
+The real meditation is how you live your life. - Jon Kabat-Zinn
+Any game becomes important when you know and love the players. - W.P. Kinsella
+Of all men's miseries the bitterest is this: to know so much and to have control over nothing.  - Herodotus
+Hope is a waking dream. - Aristotle
+Admire as much as you can. Most people do not admire enough. - Vincent van Gogh
+You can never cross the ocean unless you have the courage to lose sight of the shore. - Christopher Columbus
+The fastest way to change is to laugh at your own folly. - Spencer Johnson
+You win more from losing than winning. - Morgan Wootten
+The person who never made a mistake never tried anything new. - Albert Einstein
+In the midst of movement and chaos, keep stillness inside of you. - Deepak Chopra
+One always begins to forgive a place as soon as it's left behind. - Charles Dickens
+Surrender to what is. Let go of what was. Have faith in what will be. - Sonia Ricotti
+You are not only responsible for what you say, but also for what you do not say.  - Martin Luther
+The path is difficult to ensure worthiness. The lazy look elsewhere, The persevering find riches. - Ming-Dao Deng
+We must have strong minds, ready to accept facts as they are. - Harry S. Truman
+If you see someone without a smile give them one of yours. - Unknown
+If you want peace, you won't get it with violence. - John Lennon
+Don't settle, and don't struggle. - Naval Ravikant
+Maybe you are searching among the branches, for what only appears in the roots. - Rumi
+To know your Enemy, you must become your Enemy. - Sun Tzu
+The most difficult times for many of us are the ones we give ourselves. - Pema Chodron
+When you change what you believe, you change what you do. - Spencer Johnson
+In the long run, the sharpest weapon of all is a kind and gentle spirit. - Anne Frank
+The only people without problems are those in cemeteries. - Tony Robbins
+Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it! - Sathya Sai Baba
+Whatever satisfies the soul is truth. - Walt Whitman
+The nearer a man comes to a calm mind, the closer he is to strength. - Marcus Aurelius
+Mistake is a mistake only if you make it twice. - Robin Sharma
+Never regret your past. Rather, embrace it as the teacher that it is. - Robin Sharma
+To the world you may be one person; but to one person you may be the world. - Dr. Seuss
+If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest. - Seungsahn
+Believe in one thing too much and you have no room for new ideas.   - Ray Bradbury
+The difference between winning and losing is most often not quitting. - Walt Disney
+If we are not able to smile, then the world will not have peace. - Thich Nhat Hanh
+Be approximately right rather than exactly wrong. - John Tukey
+You are not what you think you are, You are not what others think you are, You are what you think others think you are. - Unknown
+Decide whether or not the goal is worth the risks involved. If it is, stop worrying. - Amelia Earhart
+Happiness is not something ready made. It comes from your own actions. - Dalai Lama
+The degree of responsibility you take for your life determines how much change you can create in it. - Celestine Chua
+If you want to be sad, no one in the world can make you happy. But if you make up your mind to be happy, no one and nothing on earth can take that happiness from you. - Paramahansa Yogananda
+One of the oldest human needs is having someone to wonder where you are when you don't come home at night.  - Margaret Mead
+The pessimist sees difficulty in every opportunity. The optimist sees opportunity in every difficulty. - Winston Churchill
+Success is not final, failure is not fatal: it is the courage to continue that counts. - Winston Churchill
+Remain calm. Be kind. - Colin Powell
+Sadness is but a wall between two gardens. - Kahlil Gibran
+It is truth that liberates, not your effort to be free. - Jiddu Krishnamurti
+Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. - Sigmund Freud
+Keep your friends close, and your enemies closer. - Sun Tzu
+Life is not meant to be easy my child, but take courage: it can be delightful. - George Bernard Shaw
+The successful warrior is the average man, with laser-like focus. - Bruce Lee
+The way out is in. - Thich Nhat Hanh
+It is indeed a radical act of love just to sit down and be quiet for a time by yourself. - Jon Kabat-Zinn
+Choose a job you love, and you will never have to work a day in your life.  - Confucius
+Always do your best. What you plant now, you will harvest later. - Og Mandino
+Winners never quit and quitters never win. - Vince Lombardi
+It's possible in ways both large or small to make a difference in someone's life. - Yanni
+Words without actions are the assassins of idealism. - Herbert Hoover
+Every saint has a past, and every sinner has a future. - Oscar Wilde
+You don't have to move mountains. You'll change the world simply by being a warm, kind-hearted human being. - Anita Krizzan
+I am always doing that which I can not do, in order that I may learn how to do it. - Pablo Picasso
+The worst part of success is trying to find someone who is happy for you. - Bette Midler
+Convinced myself, I seek not to convince. - Edgar Allan Poe
+It is in your moments of decision that your destiny is shaped. - Tony Robbins
+You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level. - Eckhart Tolle
+Make your mind your own business. - Jack Butcher
+Life is a gift, and it offers us the privilege, opportunity, and responsibility to give something back by becoming more. - Tony Robbins
+People who bite the hand that feeds them usually lick the boot that kicks them. - Eric Hoffer
+He who cheats the earth will be cheated by the earth. - Chinese Proverb
+Whatever happens always happens on time. - Zen Proverb
+Note that this journey is uniquely yours, no one elses. So the path has to be your own. - Jon Kabat-Zinn
+I'm not afraid of death, but I'm in no hurry to die. - Stephen Hawking
+Goals are the fuel in the furnace of achievement. - Brian Tracy
+All has not been said and never will be. - Samuel Beckett
+Freedom lies in being bold. - Robert Frost
+Life comes at us in waves. We can't predict or control those waves, but we can learn to surf. - Dan Millman
+One mistake does not have to rule a person's entire life. - Joyce Meyer
+Success in any endeavor depends on the degree to which it is an expression of your true self.  - Ralph Marston
+Quality means doing it right when no one is looking. - Henry Ford
+You're on earth. There's no cure for that. - Samuel Beckett
+Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.  - Jack London
+From the errors of others, a wise man corrects his own. - Publilius Syrus
+The truly rich men are the ones who have health, loved ones and a work they love. - Maxime Lagace
+Be like a postage stamp. Stick to it until you get there. - Bob Proctor
+What you do today can improve all your tomorrows. - Ralph Marston
+Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some. - Charles Dickens
+Where does a thought go when it's forgotten? - Sigmund Freud
+You have a brain and mind of your own. Use it, and reach your own decisions. - Napoleon Hill
+No amount of regretting can change the past, and no amount of worrying can change the future. - Roy T. Bennett
+Many roads lead to the path, but basically there are only two: reason and practice.  - Bodhidharma
+Mistakes are always forgivable, if one has the courage to admit them.  - Bruce Lee
+Stop wasting time looking at someone else's reality while doing nothing about yours. - Steve Harvey
+Everyone has the right to make his own decisions, but none has the right to force his decision on others. - Ayn Rand
+The mirror is a worthless invention. The only way to truly see yourself is in the reflection of someone elses. eyes. - Voltaire
+Every person, all the events of your life are there because you have drawn them there. What you choose to do with them is up to you. - Richard Bach
+Getting lost along your path is a part of finding the path you are meant to be on. - Robin Sharma
+To succeed takes more than the desire to win. It also takes the acceptance that we could fail. - Simon Sinek
+In the middle of chaos lies opportunity.   - Bruce Lee
+At the center of your being you have the answer; you know who you are and you know what you want. - Lao Tzu
+It is during our darkest moments that we must focus to see the light. - Aristotle
+Most of us live our lives by accident - we live as it happens. Fulfilment comes when we live our lives on purpose. - Simon Sinek
+The time is always right to do what is right. - Martin Luther King, Jr.
+It is better to be looked over than overlooked. - Mae West
+I am thankful to all those who said no. It's because of them, I did it myself.   - Wayne Dyer
+The more you know, the more you know you don't know. - Aristotle
+In youth we run into difficulties. In old age difficulties run into us.  - Beverly Sills
+Grudges are for those who insist that they are owed something; forgiveness, however, is for those who are substantial enough to move on. - Criss Jami
+At every moment where language can't go, that's your mind. - Bodhidharma
+Do you want to know who you are? Don't ask. Act! Action will delineate and define you. - Thomas Jefferson
+You purchase pain with all that joy can give and die of nothing but a rage to live. - Alexander Pope
+Everything begins with an idea. - Earl Nightingale
+Big people don't make people feel small. - Robin Sharma
+What people need and what they want may be very different. - Elbert Hubbard
+It always seems impossible until it's done. - Nelson Mandela
+Peace is not something you wish for; It's something you make, something you do, something you are, and something you give away. - John Lennon
+All you need is passion. If you have a passion for something, you'll create the talent. - Yanni
+Your gift is something that you can do innately better than anything else. - Steve Harvey
+There is no absolute success in the world, only constant progress. - Jonathan Swift
+Take away love and our earth is a tomb. - Robert Browning
+Doing the best at this moment puts you in the best place for the next moment. - Oprah Winfrey
+What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from. - T.S. Eliot
+Don't let anyone define you. You define yourself. - Billie Jean King
+We must accept finite disappointment, but never lose infinite hope. - Martin Luther King, Jr.
+Either write something worth reading or do something worth writing. - Benjamin Franklin
+He who permits himself to tell a lie once, finds it much easier to do it the second time. - Thomas Jefferson
+The future doesn't belong to the faint-hearted; it belongs to the brave. - Ronald Reagan
+When things go wrong, don't go with them. - Elvis Presley
+If you do not change direction, you may end up where you are heading. - Lao Tzu
+Heart is what separates the good from the great. - Michael Jordan
+The measure of who we are is what we do with what we have. - Vince Lombardi
+The more we value things, the less we value ourselves.   - Bruce Lee
+Smile, breathe and go slowly. - Thich Nhat Hanh
+There are as many opinions as there are experts. - Franklin D. Roosevelt
+When you want to be honored by others, you learn to honor them first. - Sathya Sai Baba
+Those who can make you believe absurdities can make you commit atrocities.  - Voltaire
+Some people are old at 18 and some are young at 90. Time is a concept that humans created. - Yoko Ono
+By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul. - Marcus Aurelius
+The smallest of actions is always better than the noblest of intentions. - Robin Sharma
+Let us rather run the risk of wearing out than rusting out. - Theodore Roosevelt
+Life is about choice. You can choose to be a victim or anything else you like to be. - Celestine Chua
+There is no right or wrong, only a series of possibilities that shift with each thought, feeling, and action that you experience. - Deepak Chopra
+Not how long, but how well you have lived is the main thing. - Seneca
+Curiosity is the most powerful thing you own. - James Cameron
+Do not follow the ideas of others, but learn to listen to the voice within yourself. - Dogen
+The secret of change is to focus all your energy not on fighting the old, but on building the new. - Dan Millman
+Turn off your mind, relax, and float downstream. - John Lennon
+A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing. - George Bernard Shaw
+Enthusiasm makes up for a host of deficiencies. - Barack Obama
+Intelligent men are cruel. Stupid men are monstrously cruel. - Jack London
+The two most powerful warriors are patience and time. - Leo Tolstoy
+Worry is a waste of emotional reserve. - Ayn Rand
+Tis not too late to seek a newer world. - Heraclitus
+To a mind that is still, the entire universe surrenders. - Zhuangzi
+It matters not what someone is born, but what they grow to be. - Albus Dumbledore
+Friendship is like money, easier made than kept. - Samuel Butler
+Wishing to be friends is quick work, but friendship is a slow ripening fruit. - Aristotle
+The dreamers are the saviors of the worlds. - James Allen
+If you're afraid to die, you're afraid to live. You can't have one without the other. - Rita Mae Brown
+We can spend our whole lives escaping from the monsters of our minds. - Pema Chodron
+The pain of parting is nothing to the joy of meeting again. - Charles Dickens
+Life is a series of choices and all we can do is make them. - Kamal Ravikant
+Sorrow is how we learn to love. - Rita Mae Brown
+It's OK to have your eggs in one basket as long as you control what happens to that basket. - Elon Musk
+Peace of mind is that mental condition in which you have accepted the worst. - Lin Yutang
+If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere. - Zig Ziglar
+We have no more right to consume happiness without producing it than to consume wealth without producing it. - George Bernard Shaw
+A liar knows that he is a liar, but one who speaks mere portions of truth in order to deceive is a craftsman of destruction. - Criss Jami
+Confidence is the greatest friend. - Lao Tzu
+We run to win, not just to be in the race.   - Vince Lombardi
+Rather than love, than money, than fame, give me truth. - Henry David Thoreau
+We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities. - Josh Waitzkin
+Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+It's the possibility of having a dream come true that makes life interesting. - Paulo Coelho
+The four P's to success are pressure, persistence, perseverance, and prayer. - Steve Harvey
+It is better to fail in originality than to succeed in imitation. - Herman Melville
+Failure is just information and an opportunity to change your course. - Oprah Winfrey
+Have the courage to follow your heart and intuition. They somehow know what you truly want to become. - Steve Jobs
+When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head. - Stephen King
+You're braver than you believe, and stronger than you seem, and smarter than you think. - A.A. Milne
+If you're afraid - don't do it, - if you're doing it - don't be afraid!  - Genghis Khan
+Only put off until tomorrow what you are willing to die having left undone. - Pablo Picasso
+He who hesitates is a damned fool. - Mae West
+We will outstretch the hand if you unclench your fist. - Barack Obama
+Knowing yourself is the beginning of all wisdom. - Aristotle
+I'm an optimist by choice not by stupidity. - Yanni
+We may not be responsible for the world that created our minds, but we can take responsibility for the mind with which we create our world. - Gabor Mate
+Happiness is a choice, not a result. Nothing will make you happy until you choose to be happy. - Ralph Marston
+It doesn't matter where you are coming from. All that matters is where you are going.  - Brian Tracy
+If you aren't sure which way to do something, do it both ways and see which works better. - John Carmack
+A leader is best when people barely know he exists, when his work is done, his aim fulfilled, they will say: we did it ourselves. - Lao Tzu
+20 percent of your activities will account for 80 percent of your results. - Brian Tracy
+You can avoid reality, but you cannot avoid the consequences of avoiding reality. - Ayn Rand
+Don't be afraid to go slowly. Be afraid of stopping. - Zen Proverb
+Why compare yourself with others? No one in the entire world can do a better job of being you than you. - Unknown
+The smallest act of kindness is worth more than the greatest intention.   - Kahlil Gibran
+Things may come to those who wait, but only the things left by those who hustle. - Abraham Lincoln
+The key to success is failure. - Michael Jordan
+Do not fight with pigs - you will be smeared in mud but the pig will like it. - George Bernard Shaw
+Challenge yourself to find the good and beautiful thing inside of everyone. - Mark Manson
+People who say it cannot be done should not interrupt those who are doing it. - George Bernard Shaw
+It's easier to lose than to win.   - Wayne Gretzky
+Adventure is not outside man; it is within. - George Eliot
+What kills the creative force is not age or lack of talent, but our own spirit, our own attitude. - Robert Greene
+Use your smile to change the world but don't let the world change your smile. - Unknown
+There are no secrets to success. It is the result of preparation, hard work, learning from failure. - Colin Powell
+To be fully alive is to feel that everything is possible. - Eric Hoffer
+Time is a game played beautifully by children. - Heraclitus
+Happiness depends on your mindset and attitude. - Roy T. Bennett
+If you want things to be different, perhaps the answer is to become different yourself. - Norman Vincent Peale
+No tree, it is said, can grow to heaven unless its roots reach down to hell. - Carl Jung
+The dream is free, but the hustle is sold separately. - Steve Harvey
+In all chaos there is a cosmos, in all disorder a secret order. - Carl Jung
+We are all in the gutter, but some of us are looking at the stars.  - Oscar Wilde
+Those who bring sunshine into the lives of others cannot keep it from themselves. - James Matthew Barrie
+You are never too old to become younger. - Mae West
+It's your road, and yours alone, others may walk it with you, but no one can walk it for you. - Rumi
+Wrong does not cease to be wrong because the majority share in it. - Leo Tolstoy
+Remember, today is the tomorrow you worried about yesterday. - Dale Carnegie
+He who can no longer pause to wonder and stand rapt in awe, is as good as dead; his eyes are closed.  - Albert Einstein
+Closing your eyes and listening to silence is self-care. - Maxime Lagace
+He who fails to plan, plans to fail. - Unknown
+Be content with what you have, rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you. - Lao Tzu
+Don't talk about what you have done or what you are going to do. - Thomas Jefferson
+Loss is nothing else but change and change is nature's delight. - Marcus Aurelius
+The best fighter is never angry. - Lao Tzu
+You are free, and that is why you are lost. - Franz Kafka
+Perfectionism is simply putting a limit on your future. - John Eliot
+You talk when you cease to be at peace with your thoughts. - Kahlil Gibran
+Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations. - Alfred Adler
+Believe in yourself. You are braver than you think, more talented than you know, and capable of more than you imagine. - Roy T. Bennett
+Little minds have little worries, big minds have no time for worries. - Ralph Waldo Emerson
+Don't be afraid to stand for what you believe in, even if that means standing alone. - Unknown
+Be the reason someone smiles. Be the reason someone feels loved and believes in the goodness in people. - Roy T. Bennett
+Take care of your body. It's the only place you have to live. - Jim Rohn
+Too many of us are not living our dreams because we are living our fears. - Les Brown
+It is not uncommon for people to spend their whole life waiting to start living. - Eckhart Tolle
+The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge. - Stephen Hawking
+Don't let what you cannot do interfere with what you can do. - John Wooden
+A fear-oriented man is always calculating, planning, arranging, safeguarding. His whole life is lost in this way. - Osho
+FOCUS - Follow One Course Until Successful - Robert Kiyosaki
+Passion is born deaf and dumb. - Honore de Balzac
+It's your life-but only if you make it so. - Eleanor Roosevelt
+Great things happen to those who don't stop believing, trying, learning, and being grateful. - Roy T. Bennett
+Progress lies not in enhancing what is, but in advancing toward what will be. - Kahlil Gibran
+Your time is limited, so don't waste it living someone elses. life. Don't be trapped by dogma - which is living with the results of other people's thinking. - Steve Jobs
+A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road. - Henry Ward Beecher
+Silence is sometimes the best answer. - Dalai Lama
+There is a difference between giving directions and giving direction. - Simon Sinek
+If you let your head get too big, it'll break your neck. - Elvis Presley
+If you pick up a starving dog and make him prosperous he will not bite you. This is the principal difference between a dog and man. - Mark Twain
+A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd. - Chinese Proverb
+Excellence is not a skill. It is an attitude.  - Ralph Marston
+Do every act of your life as if it were your last. - Marcus Aurelius
+Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again. - Og Mandino
+If you are not living each day with excitement, energy, and passion, then you are not living true to your life purpose. - Celestine Chua
+The whole problem with the world is the fools and fanatics are always so sure of themselves, and wiser people are full of doubts. - George Bernard Shaw
+Winners don't Quit. That's why they Win. - Unknown
+What worries you, masters you. - John Locke
+When you judge others, you do not define them, you define yourself. - Earl Nightingale
+No man is more cheated than the selfish man. - Henry Ward Beecher
+Study logic and math, because once you've mastered them, you won't fear any book. - Naval Ravikant
+You make your own luck if you stay at it long enough. - Naval Ravikant
+Art, like morality, consists of drawing the line somewhere. - Gilbert Chesterton
+Courage is the willingness to engage in a risk-taking behavior regardless of whether the consequences are unknown or possibly adverse. - Alfred Adler
+Not why the addiction but why the pain. - Gabor Mate
+We must not sit down and wait for miracles. Up and be going! - John Eliot
+Everything has beauty but not everyone sees it. - Confucius
+Debt is the slavery of the free. - Publilius Syrus
+You are always your own best guru, your own best teacher, the answers are always inside you. - Sathya Sai Baba
+Love the life you live, live the life you love. - Bob Marley
+People inspire you, or they drain you. Pick them wisely. - Les Brown
+Be brave to stand for what you believe in even if you stand alone. - Roy T. Bennett
+Patience expands your options. If you insist on immediate gratification, your choices are severely limited. - Ralph Marston
+I know of only one duty, and that is to love. - George Bernard Shaw
+Your neighbor is the man who needs you. - Elbert Hubbard
+A man is but a product of his thoughts. What he thinks he becomes. - Mahatma Gandhi
+If light is in your heart, you will find your way home.   - Rumi
+If you genuinely want something, don't wait for it - teach yourself. - Gurbaksh Chahal
+For things to change, you have to change. - Jim Rohn
+Take time like the river that never grows stale. Keep going and steady. No hurry, no rush. - Rumi
+Sometimes your joy is the source of your smile, but sometimes your smile can be the source of your joy. - Thich Nhat Hanh
+Whatever you believe with feeling becomes your reality.  - Brian Tracy
+Death and life have their determined appointments; riches and honors depend upon heaven.  - Confucius
+Never buy a thing you do not want, because it is cheap, it will be dear to you. - Thomas Jefferson
+Over time, loneliness gets inside you and doesn't go away. - Carlos Ruiz Zafon
+Give me six hours to chop down a tree and I will spend the first four sharpening the axe. - Abraham Lincoln
+A creative man is motivated by the desire to achieve, not by the desire to beat others. - Ayn Rand
+He who wishes to be obeyed must know how to command. - Niccolo Machiavelli
+The finish line is just the beginning of a whole new race. - Unknown
+Your vision will become clear only when you can look into your own heart. - Lolly Daskal
+It's not how much we give but how much love we put into giving. - Mother Teresa
+Have a vision, trust yourself, break some rules, ignore the naysayers, don't be afraid to fail. - Arnold Schwarzenegger
+Don't just sit there. Do something. The answers will follow. - Mark Manson
+Quiet people have the loudest minds. - Stephen King
+The man who removes a mountain begins by carrying away small stones. - William Faulkner
+The day is for honest men, the night for thieves. - Euripides
+People who belittle people, will be LITTLE people, and will accomplish very Little - Norman Vincent Peale
+A very little key will open a very heavy door. - Charles Dickens
+Duty makes us do things well, but love makes us do them beautifully.   - Zig Ziglar
+Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes. - Carl Jung
+To be of use to the world is the only way to be happy. - Hans Christian Andersen
+Follow your heart, listen to your inner voice, stop caring about what others think. - Roy T. Bennett
+Showing off is the fool's idea of glory.  - Bruce Lee
+The only real security that a man can have in this world is a reserve of knowledge, experience and ability.  - Henry Ford
+We've got to live, no matter how many skies have fallen. - D. H. Lawrence
+Inspiration exists, but it has to find you working. - Pablo Picasso
+Life should be touched, not strangled.   - Ray Bradbury
+Creativity is the greatest rebellion in existence. - Osho
+Music is like creating an emotional painting. The sounds are the colors. - Yanni
+Sometimes you have to shut your eyes, so you can see the real beauty. - Kilian Jornet
+You'll get more from being a peacemaker than a warrior. - Arnold Schwarzenegger
+The more acquaintances you have, the less you know them. - Chinese Proverb
+Self-knowledge is the beginning of self-correction. - Norman Vincent Peale
+A man sees in the world what he carries in his heart. - Johann Wolfgang von Goethe
+Curiosity is the most powerful thing you own. Imagination is a force that can actually manifest a reality. - James Cameron
+Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you. - Peter Drucker
+Blessed is he who expects nothing, for he shall never be disappointed. - Alexander Pope
+Do not take life too seriously. You will never get out of it alive. - Elbert Hubbard
+The truth is not for all men, but for those who seek it. - Ayn Rand
+The true soldier fights not because he hates what is in front of him, but because he loves what is behind him. - Gilbert Chesterton
+Life must be a constant education; one must learn everything, from speaking to dying. - Gustave Flaubert
+Sometimes things become possible if we want them bad enough. - T.S. Eliot
+The salvation of the world lies in the human heart. - Vaclav Havel
+Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime. - Lao Tzu
+I never did anything worth doing by accident, nor did any of my inventions come by accident - Thomas Edison
+We need never be ashamed of our tears. - Charles Dickens
+No one is useless in this world who lightens the burdens of another. - Charles Dickens
+Minds, like bodies, will often fall into a pimpled, ill-conditioned state from mere excess of comfort. - Charles Dickens
+Subdue your appetites, my dears, and you've conquered human nature. - Charles Dickens
+Everything comes to him who hustles while he waits. - Thomas Edison
+We don't know a millionth of one percent about anything. - Thomas Edison
+Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work. - Thomas Edison
+If we all did the things we are capable of doing, we would literally astound ourselves. - Thomas Edison
+Train up a fig tree in the way it should go, and when you are old sit under the shade of it. - Charles Dickens
+I do not know the American gentleman, god forgive me for putting two such words together. - Charles Dickens
+The doctor of the future will give no medicine, but will interest her or his patients in the care of the human frame, in a proper diet, and in the cause and prevention of disease. - Thomas Edison
+Genius is one per cent inspiration, ninety-nine per cent perspiration. - Thomas Edison
+I never did a day's work in my life.  It was all fun. - Thomas Edison
+If I find 10,000 ways something won't work, I haven't failed. I am not discouraged, because every wrong attempt discarded is another step forward. - Thomas Edison
+To invent, you need a good imagination and a pile of junk. - Thomas Edison
+There is no expedient to which a man will not go to avoid the labor of thinking. - Thomas Edison
+Faith, as well intentioned as it may be, must be built on facts, not fiction--faith in fiction is a damnable false hope. - Thomas Edison
+Hell, there are no rules here-- we're trying to accomplish something. - Thomas Edison
+Opportunity is missed by most people because it is dressed in overalls and looks like work. - Thomas Edison
+As a cure for worrying, work is better than whisky. - Thomas Edison
+Reflect on your present blessings, of which every man has many; not on your past misfortunes, of which all men have some. - Charles Dickens
+Do not worry about your difficulties in Mathematics. I can assure you mine are still greater. - Albert Einstein
+If I had only known, I would have been a locksmith. - Albert Einstein
+Every day I remind myself that my inner and outer life are based on the labors of other men, living and dead, and that I must exert myself in order to give in the same measure as I have received and am still receiving. - Albert Einstein
+If you are out to describe the truth, leave elegance to the tailor. - Albert Einstein
+Ethical axioms are found and tested not very differently from the axioms of science. Truth is what stands the test of experience. - Albert Einstein
+It is the supreme art of the teacher to awaken joy in creative expression and knowledge. - Albert Einstein
+Before God we are all equally wise - and equally foolish. - Albert Einstein
+I never think of the future - it comes soon enough. - Albert Einstein
+I never teach my pupils. I only attempt to provide the conditions in which they can learn. - Albert Einstein
+Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking. - Albert Einstein
+Gravitation cannot be held responsible for people falling in love. How on earth can you explain in terms of chemistry and physics so important a biological phenomenon as first love? Put your hand on a stove for a minute and it seems like an hour. Sit with that special girl for an hour and it seems like a minute. That's relativity. - Albert Einstein
+The ideals which have lighted my way, and time after time have given me new courage to face life cheerfully, have been Kindness, Beauty, and Truth. The trite subjects of human efforts, possessions, outward success, luxury have always seemed to me contemptible. - Albert Einstein
+Few people are capable of expressing with equanimity opinions which differ from the prejudices of their social environment. Most people are even incapable of forming such opinions. - Albert Einstein
+Laws alone can not secure freedom of expression; in order that every man present his views without penalty there must be spirit of tolerance in the entire population. - Albert Einstein
+Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. - Albert Einstein
+Imagination is more important than knowledge... - Albert Einstein
+I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones. - Albert Einstein
+It is a miracle that curiosity survives formal education. - Albert Einstein
+Perfection of means and confusion of ends seems to characterize our age. - Albert Einstein
+My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind. - Albert Einstein
+The smaller the mind the greater the conceit. - Aesop
+Be content with your lot; one cannot be first in everything. - Aesop
+Price is what you pay. Value is what you get. - Warren Buffett
+The only time to buy these is on a day with no 'y' in it. - Warren Buffett
+Injuries may be forgiven, but not forgotten. - Aesop
+Most people get interested in stocks when everyone else is. The time to get interested is when no one else is. You can't buy what is popular and do well. - Warren Buffett
+I won't close down a business of subnormal profitability merely to add a fraction of a point to our corporate returns. I also feel it inappropriate for even an exceptionally profitable company to fund an operation once it appears to have unending losses in prospect. Adam Smith would disagree with my first proposition and Karl Marx would disagree with my second; the middle ground is the only position that leaves me comfortable. - Warren Buffett
+Better be wise by the misfortunes of others than by your own. - Aesop

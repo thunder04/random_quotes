@@ -1,0 +1,8 @@
+[Unit]
+Description=Writes a random quote in /etc/issue
+
+[Service]
+ExecStart=/usr/bin/random_quote
+
+[Install]
+WantedBy=multi-user.target
